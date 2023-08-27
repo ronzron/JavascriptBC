@@ -27,4 +27,4 @@ addItemInput.addEventListener('keypress', function(e){
         itemsUL.appendChild(newItem);
         this.value = '';
     }
-})
+}) // simple key press
